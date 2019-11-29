@@ -687,6 +687,18 @@ section.lazy-placeholder:after {
     opacity: 1;
   }
 }
+.cid-rJfHlCIhWh {
+  background: #ffffff;
+}
+.cid-rJfHlCIhWh .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rJfHlCIhWh .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rJfrsYJBJA {
   padding-top: 0px;
   padding-bottom: 0px;
