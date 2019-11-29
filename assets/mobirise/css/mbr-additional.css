@@ -689,10 +689,11 @@ section.lazy-placeholder:after {
 }
 .cid-rJfHlCIhWh {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rJfHlCIhWh .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rJfHlCIhWh .video-block {
