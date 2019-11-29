@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-30_0204",
+    "name": "Mobility333",
     "currentPage": "index.html",
     "theme": {
       "name": "portfoliom4",
@@ -33,6 +33,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/dell-logo-blue-rgb-319x319-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
     "uniqCompNum": 5,
     "versionPublish": "4.8.1"
   },
