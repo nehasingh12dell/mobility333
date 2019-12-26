@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
@@ -9,14 +10,14 @@ body {
   font-family: Dosis;
 }
 .display-1 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3.5rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 5.6rem;
 }
 .display-2 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
@@ -30,7 +31,7 @@ body {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
