@@ -14,7 +14,7 @@
         "dangerColor": "#444444",
         "mainFont": "Dosis",
         "display1Font": "Roboto",
-        "display1Size": 3.5,
+        "display1Size": "2.5",
         "display2Font": "Roboto",
         "display2Size": 2,
         "display5Font": "Roboto",
