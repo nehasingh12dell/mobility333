@@ -1198,7 +1198,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Dell Event Platform&nbsp;",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sales & Prospect Enablement",
@@ -1209,8 +1209,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "customStyle1": "display-5",
+                "caption": "GeM Tracker",
                 "active": false
               },
               {
@@ -1222,8 +1222,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "customStyle1": "display-5",
+                "caption": "ERG Connect",
                 "active": false
               },
               {
@@ -1236,7 +1236,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "GRC Reporting",
                 "active": false
               },
               {
@@ -1248,8 +1248,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "customStyle1": "display-5",
+                "caption": "Help-A-Customer",
                 "active": false
               },
               {
@@ -1261,8 +1261,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "customStyle1": "display-5",
+                "caption": "Engage",
                 "active": false
               },
               {
@@ -1275,7 +1275,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "vApprove",
                 "active": false
               },
               {
@@ -1287,9 +1287,22 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "customStyle1": "display-5",
+                "caption": "Sales Dashboard",
                 "active": false
+              },
+              {
+                "tags": "Team Member Productivity",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-events-1080x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-events-1080x720-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "My Guest",
+                "active": true
               }
             ]
           }
